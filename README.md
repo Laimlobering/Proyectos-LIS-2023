@@ -1,3 +1,7 @@
 # Francisco Montero
-![este soy yo](https://images.unsplash.com/photo-1574217013471-c32c6846cef7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm90b3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80)
-jsjsjs
+![este soy yo](https://media.licdn.com/dms/image/D4E03AQFPiNEOS79s_A/profile-displayphoto-shrink_400_400/0/1695307804822?e=1700697600&v=beta&t=GNwYSqw1Lm3InrvkM3HfTFCNkPFhwluhqJdzsjuiAgs)
+
+soy estudiante de la uady y me gusta la pizza
+
+mi perfil de LinkedIn
+<https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav>
