@@ -1,3 +1,4 @@
+
 # Descripción del producto 
 * Con este producto buscamos ayudar a generar recetas y tips de comida para estudiantes 
 universitarios de Yucatán, esto se realizará por medio de una IA especializada. ¿Ayudar en 
@@ -11,3 +12,6 @@ gastronomía y cultura, sin embargo, entre otras limitaciones, esta resulta ser 
 más grandes por el idioma, la gran variedad y complejidad de las recetas de cocina de cada 
 región, los ingredientes de cada región, etc. Por esto, por el momento únicamente nos 
 concentraremos en el sector mexicano, más específicamente en Yucatán.
+=======
+
+
