@@ -1,8 +1,5 @@
 # Proyectos-LIS-2023
 
-=======
-
-
 
 ## Índice
 - [Acerca De](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Acerca_de.md)
