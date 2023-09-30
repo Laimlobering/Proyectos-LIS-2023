@@ -34,4 +34,3 @@ Para la contribución y participación individual decidimos otorgar a las activi
 ## Gráfica
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/986344c3385fede07f206323c548380ab65cd88617b39682.png)
-
