@@ -8,3 +8,4 @@ Documentación de procesos, actividades y códigos de manera explícita y adecua
 Disposición de tiempo: 
 Organización de tiempo para un trabajo constante, manteniendo el proyecto en seguimiento diario.
 
+

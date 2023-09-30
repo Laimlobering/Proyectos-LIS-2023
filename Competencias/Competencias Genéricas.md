@@ -8,3 +8,4 @@ Motivación de buscar nuevas oportunidades de adquirir conocimiento y habilidade
 Comunicación de forma efectiva:
  transmitir ideas, información o sentimientos de manera clara y comprensible, logrando que el mensaje sea entendido por el receptor de manera precisa y sin malentendidos.
 
+
