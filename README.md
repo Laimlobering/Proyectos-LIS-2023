@@ -1,5 +1,7 @@
 # Proyectos-LIS-2023
 
+=======
+
 
 
 ## Índice
@@ -20,4 +22,5 @@
 ### Competencias
 - [Competencias Específicas](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Competencias/Competencias%20Espec%C3%ADficas.md)
 - [Competencias Genéricas](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Competencias/Competencias%20Gen%C3%A9ricas.md)
+
 
