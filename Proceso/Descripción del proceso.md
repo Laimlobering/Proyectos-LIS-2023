@@ -31,4 +31,3 @@ La asignación de tareas se realizará para cada miembro del equipo con un total
 | Presentación del avance    | 10   | <p>**Rodríguez Mauricio** – 10 <p>**Tzab Ary** – 4 <p>**Domínguez Cesar** – 4    |     18     |
 | Competencias    | 6  | **Domínguez Cesar** – 6    |     6     |
 | Traducción a markdown    | 3   | <p>**Martínez Karen** – 3 <p>**Aviles Jesús** - 3    |      6    |
-=======
