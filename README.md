@@ -11,7 +11,7 @@
 - [Artefactos](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/c96b2b9326be5217ecd8a95a323d7f67be53c948/Requisitos/Artefactos.md)
 - [Requisitos Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Requisitos%20funcionales.md)
 - [Requisitos No Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Requisitos%20no%20funcionales.md)
-- [Priorización](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Priorizaci%C3%B3n.md)
+- [Priorización](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/90aaadfb575cf19ec13ec8e26957972c15452e62/Requisitos/Priorizaci%C3%B3n.md)
 ### Proceso
 - [Descripción del proceso](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Proceso/Descripci%C3%B3n%20del%20proceso.md)
 - [Gestión del proceso](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Proceso/Gesti%C3%B3n%20del%20proceso.md)
