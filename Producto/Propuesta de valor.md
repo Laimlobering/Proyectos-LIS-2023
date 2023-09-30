@@ -1,3 +1,4 @@
+
 # Propuesta de Valor
 Nuestra propuesta de valor se basa en brindar un producto rápido y exacto mediante un 
 software altamente personalizado, eficiente y de calidad, facilitando la creación de recetas 
@@ -7,3 +8,4 @@ recetas claras, ahorro de tiempo a la hora cocinar, ayudar a reducir desperdicio
 cantidades de alimento exactas, contando con una interfaz intuitiva, etc. Todo esto con el 
 propósito de ayudar a las personas con o sin experiencia culinaria a desenvolverse mejor y 
 de forma eficiente en la cocina.
+
