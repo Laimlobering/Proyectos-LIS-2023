@@ -18,7 +18,7 @@ Para la contribución y participación individual decidimos otorgar a las activi
 |Competencias específicas|3 pts.|- Cesar Adrian Dominguez Franco|
 |Traducción a Markdown|3 pts. c/u (6 en total)|- Karen Patricia Martinez Montemayor y Jesús Alberto Aviles Castillo
 |Guión del video|2 pts. c/u (6 en total)|- Ary Obed Tzab Tzab, Mauricio Eduardo Rodriguez Aguirre y Cesar Adrian Dominguez Franco
-|**Puntos Totales**|60 pts.||
+|**Puntos Totales**|60 pts.|
 
 
 ## Puntos por Integrantes
