@@ -9,7 +9,7 @@
 - [Propuestra de Valor](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Propuesta%20de%20valor.md)
 ### Requisitos
 - [Artefactos](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/c96b2b9326be5217ecd8a95a323d7f67be53c948/Requisitos/Artefactos.md)
-- [Requisitos Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Requisitos%20funcionales.md)
+- [Requisitos Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/b1dc616d2b21c72bc3d1bfc936ac175e3bcb9238/Requisitos/Requisitos%20funcionales.md)
 - [Requisitos No Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Requisitos%20no%20funcionales.md)
 - [Priorización](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/90aaadfb575cf19ec13ec8e26957972c15452e62/Requisitos/Priorizaci%C3%B3n.md)
 ### Proceso
