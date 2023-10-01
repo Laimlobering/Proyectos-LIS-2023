@@ -12,8 +12,8 @@
 
 ## Índice
 - [Acerca De](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Acerca_de.md)
-- [Lista de cotejo]()
-- [Video]()
+- [Lista de cotejo](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a20203722_alumnos_uady_mx/Easi2161kjRKlJbujn6O6P4Bqp0LLeqjLa9OBIkWPvfyDA?e=DzpaHo)
+- [Video](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a20204314_alumnos_uady_mx/EeaEc_PsAgNFqa5jHgjPbBcBKt1Tf_XdUgw8Il9WZ6Qu2w?e=qtfJx6)
 ### Producto
 - [Descripción del producto](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/66bcbba70ca4877411174c745e136db9f63fd54c/Producto/Descripci%C3%B3n%20de%20producto.md)
 - [Usuarios](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Usuarios.md)
