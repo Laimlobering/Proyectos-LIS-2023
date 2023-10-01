@@ -1,8 +1,19 @@
 # Proyectos-LIS-2023
 
+# Integrantes del equipo
+- Jesús Alberto Aviles Castillo
+- Mauricio Eduardo Rodriguez Aguirre
+- Karen Patricia Martinez Montemayor
+- Jose Francisco Montero Uc
+- Cesar Adrian Dominguez Franco
+- Ary Obed Tzab Tzab
+
+# Primera entrega
 
 ## Índice
 - [Acerca De](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Acerca_de.md)
+- [Lista de cotejo]()
+- [Video]()
 ### Producto
 - [Descripción del producto](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/66bcbba70ca4877411174c745e136db9f63fd54c/Producto/Descripci%C3%B3n%20de%20producto.md)
 - [Usuarios](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Usuarios.md)
