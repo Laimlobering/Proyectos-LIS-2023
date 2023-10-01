@@ -4,7 +4,7 @@
 ## Índice
 - [Acerca De](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Acerca_de.md)
 ### Producto
-- [Descripción del producto](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/499b7dd4a2f4b7cfb613c44b75bad7fc764715d8/Producto/Descripci%C3%B3n%20de%20producto.md)
+- [Descripción del producto](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/66bcbba70ca4877411174c745e136db9f63fd54c/Producto/Descripci%C3%B3n%20de%20producto.md)
 - [Usuarios](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Usuarios.md)
 - [Propuestra de Valor](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Propuesta%20de%20valor.md)
 ### Requisitos
