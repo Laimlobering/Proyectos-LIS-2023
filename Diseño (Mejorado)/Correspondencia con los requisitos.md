@@ -1,5 +1,3 @@
- 
-
 # Correspondencia con los Requisitos 
 
 ## Artefactos 
@@ -27,4 +25,5 @@ Igualmente se verificó que los requerimientos funcionales cumplen con los proto
 cs.com/kSW7V9NHUXugvhoQeFaf/images/b7c4262512af3223aa112d5bb824303239ae42 c0ef60baf6.png) ![](https://33333.cdn.cke-
 
 cs.com/kSW7V9NHUXugvhoQeFaf/images/121d33a6ae2cf9fbf30698190edc2e21d67290d 616fb73a4.png) 
+
 
