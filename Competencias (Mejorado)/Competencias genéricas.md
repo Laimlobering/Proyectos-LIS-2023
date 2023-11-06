@@ -8,3 +8,4 @@ problemas y dudas, reuniones de equipo, etc.
 * **Gestión de tiempo:** Capacidad para planificar y organizar el tiempo de manera eficaz
 se promueve a través del cumplimiento de los lapsos de entrega de tareas, priorización de
 tareas y seguimiento del proyecto.
+

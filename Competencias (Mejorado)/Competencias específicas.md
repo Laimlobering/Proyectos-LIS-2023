@@ -7,3 +7,4 @@ sencilla y fácil de usar utilizando herramientas básicas de diseño como figma
 interfaces intuitivas y atractivas.
 * **Gestión de repositorio:** Las habilidades y conocimientos necesarios para gestionar
 de manera adecuada el repositorio.
+

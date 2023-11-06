@@ -24,3 +24,4 @@
 * El software debe estar disponible las 24 horas del día 7 días de la semana.
 >> El software debe estar disponible en cualquier momento para satisfacer las necesidades de los usuarios independientemente de la zona horario o ubicación.
 
+

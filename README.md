@@ -1,18 +1,16 @@
 # Proyectos-LIS-2023
 
-
-
 ## Índice
 - [Acerca De](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Acerca_de.md)
 ### Producto
-- [Descripción del producto](https://markdownlivepreview.com/](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Descripci%C3%B3n%20de%20producto.md)https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Descripci%C3%B3n%20de%20producto.md)
+- [Descripción del producto](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/499b7dd4a2f4b7cfb613c44b75bad7fc764715d8/Producto/Descripci%C3%B3n%20de%20producto.md)
 - [Usuarios](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Usuarios.md)
 - [Propuestra de Valor](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Producto/Propuesta%20de%20valor.md)
 ### Requisitos
-- [Artefactos](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Artefactos.md)
-- [Requisitos Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Requisitos%20funcionales.md)
-- [Requisitos No Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Requisitos%20no%20funcionales.md)
-- [Priorización](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Requsitos/Priorizaci%C3%B3n.md)
+- [Artefactos](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/c96b2b9326be5217ecd8a95a323d7f67be53c948/Requisitos/Artefactos.md)
+- [Requisitos Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/b1dc616d2b21c72bc3d1bfc936ac175e3bcb9238/Requisitos/Requisitos%20funcionales.md)
+- [Requisitos No Funcionales](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/a4f0d36e57a0df0553c5dd08eb3004c1a1b8af46/Requisitos/Requisitos%20no%20funcionales.md)
+- [Priorización](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/90aaadfb575cf19ec13ec8e26957972c15452e62/Requisitos/Priorizaci%C3%B3n.md)
 ### Proceso
 - [Descripción del proceso](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Proceso/Descripci%C3%B3n%20del%20proceso.md)
 - [Gestión del proceso](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Proceso/Gesti%C3%B3n%20del%20proceso.md)
@@ -20,4 +18,5 @@
 ### Competencias
 - [Competencias Específicas](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Competencias/Competencias%20Espec%C3%ADficas.md)
 - [Competencias Genéricas](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Primera_entrega/Competencias/Competencias%20Gen%C3%A9ricas.md)
+
 
