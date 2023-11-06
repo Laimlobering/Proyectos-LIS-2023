@@ -4,10 +4,12 @@
 # Artefactos
 ## Historias de Usuario
 
-Con la siguiente imagen se confirma que sí corresponde con los prototipos.
+Con la siguiente imagen confirmamos que sí existe una correspondencia de los prototipos respectoa las historias de usuarios planteadas.
+
 ![.](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6a0cb90e62d6314ce0b5fff0419feda3856f70e2e4b68b3a.png)
 
 ## Diagrama de caso de uso
+
 ![.](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/53b79fe55146965be05f9574f759e37b2e57099b31a09dde.png)
 ## Requerimientos funcionales
 Igualmente se verificó que los requerimientos funcionales cumplen con los prototipos, los 
