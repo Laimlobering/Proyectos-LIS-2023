@@ -1,0 +1,2 @@
+# Evolución del Producto
+Los cambios más importantes del producto entre la primera y segunda entrega fueron los requerimientos y el cambio de una metodología ágil a un ciclos de vida del software; en cuanto a los requerimientos funcionales se eliminaron dos y agrego uno, y para los requerimientos no funcionales solo se elimino uno; en referencia al ciclo de vida del software, se realizo el cambio de la metodología ágil **Scrum** al ciclo de vida del software **En cascada** para encaminar el proyecto a la dirección correcta.
