@@ -8,3 +8,4 @@ Las reuniones diarias como eran en la metodología SCRUM ya no eran necesarias, 
 |19 – 10 – 23 |- 	Se presentaron los avances, los cuales fueron analizar mejor la metodología|-Avilés Jesús, Montero José, Tzab Ary, Cesar Domínguez, Martínez Karen, Rodríguez Mauricio. 
 |26 – 10 – 23 |- 	Se presentó los avances y se resolvió una duda de otra actividad no pertenecientes a esta actividad|- 	Avilés Jesús, Montero José, Tzab Ary, Rodríguez Mauricio. 
 |02 – 11 – 23|- 	División de tareas, Análisis de los requerimientos y Aclaración de dudas|- Avilés Jesús, Montero José, Tzab Ary. 
+
