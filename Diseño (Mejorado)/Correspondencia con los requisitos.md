@@ -1,7 +1,7 @@
 
 # Correspondencia con los Requisitos
 ## Artefactos
-![](https://33333.cdn.ckecs.com/kSW7V9NHUXugvhoQeFaf/images/53b79fe55146965be05f9574f759e37b2e57099b31a09dde.png)
+![](https://33333.cdn.ckecs.com/kSW7V9NHUXugvhoQeFaf/images/53b79fe55146965be05f9574f759e37b2e57099b31a09dde.png)
 La correspondencia de los artefactos es fiel al prototipo, sigue en orden lo esperado para 
 conseguir todos los puntos necesarios.
 ## Historias de Usuario
