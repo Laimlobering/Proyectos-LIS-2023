@@ -1,1 +1,2 @@
-
+##Video-Segunda-Entrega
+[Video] (https://alumnosuady-my.sharepoint.com/:v:/g/personal/a20204314_alumnos_uady_mx/EfNISDuPALNOrFNaq577KFQBWK6HPpWYckkrfYlbxwfMAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=uzmQVC)
