@@ -14,7 +14,7 @@ Con la siguiente imagen confirmamos que sí existe una correspondencia de los pr
 
 Además, también existe correspondencia con el diagrama de caso de uso realizado, mostrando en los prototipos, las funciones presentadas en el diagrama.
 
-![.](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/53b79fe55146965be05f9574f759e37b2e57099b31a09dde.png)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/0d9aa1758e5f01bf6d348e56cd9d3a6f618d275e223cafb5.jpeg)
 
 ## Requerimientos funcionales
 
