@@ -6,6 +6,6 @@
  ***Vista general*** 
  
  
- ![.](https://33333.cdn.ckecs.com/kSW7V9NHUXugvhoQeFaf/images/f0d82518165c9f76987f885eff6c063b45af230272ef3657.png)
+ ![img1](https://33333.cdn.ckecs.com/kSW7V9NHUXugvhoQeFaf/images/f0d82518165c9f76987f885eff6c063b45af230272ef3657.png)
  
  ![](https://33333.cdn.ckecs.com/kSW7V9NHUXugvhoQeFaf/images/98c577522ad67dccad3a9e849f9c83163eca86b5bae54234.png)
