@@ -32,3 +32,6 @@
 - [Competencias Específicas mejorado](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Segunda_entrega/Competencias%20(Mejorado)/Competencias%20espec%C3%ADficas.md)
 - [Competencias Genéricas mejorado](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Segunda_entrega/Competencias%20(Mejorado)/Competencias%20gen%C3%A9ricas.md)
 
+### Lista de cotejo
+[Aui](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a20203722_alumnos_uady_mx/ERyIzgFMa3ROga48IKQCmcsBgScRgO1BteQA-SsnNBqeMg?e=RT4NLK)
+
