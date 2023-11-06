@@ -26,4 +26,3 @@ Para la contribución y participación individual decidimos mantener un sistema 
 |José Francisco Montero Uc|5 pts.
 |Cesar Adrián Domínguez Franco|0 pts. 
 |Mauricio Eduardo Rodríguez Aguirre|5 pts.
-
