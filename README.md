@@ -28,7 +28,7 @@ Como resumen se realizaron publicaciones en redes sociales:
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad2-3%20-%20Producto%20resultante%20de%20etapa%20de%20diseno.md)
 
 4. Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
-[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad2-4%20-%20Metodo%20de%20inclusion%20de%20pruebas%20en%20proceso%20de%20desarrollo.md)
+[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/9a4848a067140263649b9ccf181d15048790a4f7/Reflexiones/Unidad2-4%20-%20Metodo%20de%20inclusion%20de%20pruebas%20en%20proceso%20de%20desarrollo.md)
 
 5. Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el 
 desarrollo de Aplicaciones de Software Seguras.
