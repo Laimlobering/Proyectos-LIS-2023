@@ -2,9 +2,9 @@
 Para la contribución y participación individual decidimos mantener un sistema similar al utilizado en la entrega pasada, la única modificación fue el rango de puntaje asignado, siendo que en la entrega pasada evaluamos las actividades con un puntaje del 1 al 6 mientras que en esta decidimos ajustarlo del 1 al 5.
 |Actividad|Puntos Asignados|Persona Asignada|Puntos Obtenidos|
 |--|--|--|--|
-|Evolución del producto|2 pts.|Cesar Adrián Domínguez Franco|0
+|Evolución del producto|2 pts.|Cesar Adrián Domínguez Franco|2
 |Evolución de requisitos funcionales|3 pts.|Jesús Alberto Avilés Castillo|3
-|Refinamiento de artefactos|3 pts.|Cesar Adrián Domínguez Franco|0
+|Refinamiento de artefactos|3 pts.|Cesar Adrián Domínguez Franco|3
 |Bosquejo de interfaces|5 pts.|José Francisco Montero Uc|5
 |Correspondencia con los requisitos|2 pts.|Ary Obed Tzab Tzab|2
 |Validación de interfaces|1 pts.|Mauricio Eduardo Rodríguez Aguirre|1
