@@ -13,7 +13,7 @@
 - Tzab Tzab Ary Obed
 
 Como resumen se realizaron publicaciones en redes sociales:
-[Enlace cuanta instagram]()
+[Enlace cuanta instagram](https://www.instagram.com/pd23_is_equipo7/)
 
 ## Reflexiones
 
