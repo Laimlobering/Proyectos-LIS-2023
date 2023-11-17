@@ -11,6 +11,8 @@ Como equipo llevamos a cabo la revisión y análisis de la documentación de los
 Gomez, C. (jul 7, 2021). Pruebas dinámicas vs pruebas estáticas. Diario de QA. 
 https://www.diariodeqa.com/post/pruebas-din%C3%A1micas-vs-pruebas-est%C3%A1ticas
 
+Sonia R., Lucrecia, R., Amalia, G., Gladys, N. (s.f.). Evaluación de técnicas para la validación de requerimientos en entornos de trabajo para el desarrollo de software. Facultad de Ciencias de la Administración - Universidad Nacional de Entre Ríos, Facultad de Ciencias Exactas y Naturales y Agrimensura - Universidad Nacional del Nordeste. http://sedici.unlp.edu.ar/bitstream/handle/10915/103994/Documento_completo.pdf-PDFA.pdf?sequence=1&isAllowed=y
+
 Natalia, J., Ana, M., Sira, V. (otc 17, 2006). *TÉCNICAS DE EVALUACIÓN DE SOFTWARE*.
 http://www.grise.upm.es/sites/extras/12/pdf/Documentacion_Evaluacion_7.pdf
 
