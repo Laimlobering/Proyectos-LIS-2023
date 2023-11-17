@@ -22,7 +22,7 @@ Como resumen se realizaron publicaciones en redes sociales:
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/40cc48b50d0b5ca82fb829f38f680dbadda306c3/Reflexiones/Unidad2-1%20-%20Habilidades%20tecnicas%20Fase%20de%20requerimientos.md)
 
 2. Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
-[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad2-2%20-%20Especificacion%20de%20casos%20de%20uso%20vs%20Historias%20de%20usuario.md)
+[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/057b75eb772ec9b6b9c5a9fe8955eb605a1f32d5/Reflexiones/Unidad2-2%20-%20Especificacion%20de%20casos%20de%20uso%20vs%20Historias%20de%20usuario.md)
 
 3. Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/aa1b3eb13dfc7e13f2c50859fde7c0a17f7780b7/Reflexiones/Unidad2-3%20-%20Producto%20resultante%20de%20etapa%20de%20diseno.md)
