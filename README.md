@@ -36,7 +36,7 @@ desarrollo de Aplicaciones de Software Seguras.
 
 # Unidad 3
 1. Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
-[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad3-1%20-%20Manifiesto%20para%20el%20desarrollo%20agil%20de%20software.md)
+[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/a176fc4561fac3ea91f44d892664205b8ffc335f/Reflexiones/Unidad3-1%20-%20Manifiesto%20para%20el%20desarrollo%20agil%20de%20software.md)
 
 2. De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil.
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad3-2%20-%20Metodologias%20agiles.md)
