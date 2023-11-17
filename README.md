@@ -21,16 +21,16 @@ Como resumen se realizaron publicaciones en redes sociales:
 1. Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/40cc48b50d0b5ca82fb829f38f680dbadda306c3/Reflexiones/Unidad2-1%20-%20Habilidades%20tecnicas%20Fase%20de%20requerimientos.md)
 
-3. Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+2. Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad2-2%20-%20Especificacion%20de%20casos%20de%20uso%20vs%20Historias%20de%20usuario.md)
 
-4. Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
-[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad2-3%20-%20Producto%20resultante%20de%20etapa%20de%20diseno.md)
+3. Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/aa1b3eb13dfc7e13f2c50859fde7c0a17f7780b7/Reflexiones/Unidad2-3%20-%20Producto%20resultante%20de%20etapa%20de%20diseno.md)
 
-5. Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+4. Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/9a4848a067140263649b9ccf181d15048790a4f7/Reflexiones/Unidad2-4%20-%20Metodo%20de%20inclusion%20de%20pruebas%20en%20proceso%20de%20desarrollo.md)
 
-6. Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el 
+5. Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el 
 desarrollo de Aplicaciones de Software Seguras.
 [AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad2-5%20-%20Competencias%20para%20desarrollo%20de%20aplicaciones%20seguras.md)
 
