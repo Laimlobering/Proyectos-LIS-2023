@@ -19,7 +19,7 @@ Como resumen se realizaron publicaciones en redes sociales:
 
 # Unidad 2
 1. Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
-[AQUI]()
+[AQUI](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/4a41744e2365c78d29dd7cde24ff852c30779d0e/Reflexiones/Unidad2-1%20-%20Habilidades%20tecnicas%20Fase%20de%20requerimientos.md)
 
 2. Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 [AQUI]()
