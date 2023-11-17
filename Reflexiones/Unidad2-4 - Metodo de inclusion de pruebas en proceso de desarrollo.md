@@ -4,7 +4,7 @@ Las técnicas de evaluación estáticas buscan faltas con el sistema en reposo, 
 
 Adicionalmente, al revisar exhaustivamente la documentación y el código, se asegura una mayor comprensión compartida del software, contribuyendo a la mejora de la documentación del proyecto y a la consecución de un producto final robusto y sostenible.
 
-## Ejemplo basado en la experiencia del prpyecto en equipo
+## Ejemplo basado en la experiencia del proyecto en equipo
 Como equipo llevamos a cabo la revisión y análisis de la documentación de los requerimientos, examinando minuciosamente que la información este correcta, completa y coherente, garantizando que esta coincida con las funcionalidades establecidas del software, esto nos permitió identificar errores en una etapa temprana antes de pasar a la siguiente etapa del desarrollo que fue la realización de las interfaces de usuario. Con la revisión se mejoraron los requerimientos y ayudo a la detección temprana de errores.
 
 ## Referencias 
