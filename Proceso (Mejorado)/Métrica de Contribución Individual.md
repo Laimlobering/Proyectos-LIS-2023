@@ -24,5 +24,5 @@ Para la contribución y participación individual decidimos mantener un sistema 
 |Karen Patricia Martínez Montemayor|5 pts. 
 |Ary Obed Tzab Tzab|5 pts.
 |José Francisco Montero Uc|5 pts.
-|Cesar Adrián Domínguez Franco|0 pts. 
+|Cesar Adrián Domínguez Franco|5 pts. 
 |Mauricio Eduardo Rodríguez Aguirre|5 pts.
