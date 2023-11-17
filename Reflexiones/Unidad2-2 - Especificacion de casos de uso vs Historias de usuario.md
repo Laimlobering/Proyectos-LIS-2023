@@ -20,7 +20,7 @@ Primero que nada para poder hacer una buena comparación entre “Especificació
 
 ### Ejemplos basados en nuestro proyecto
 ### Especificación de casos de uso
-![Especificación de caso de uso]()
+![Especificación de caso de uso](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/PD-2-3/Artefactos/Especificaci%C3%B3n%20caso%20de%20uso.jpeg)
 
 ### Historias de usuario
 
