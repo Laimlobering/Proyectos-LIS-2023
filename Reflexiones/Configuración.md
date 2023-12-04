@@ -65,3 +65,11 @@ Although the artifacts are correctly versioned, there is a lack of proper organi
 
 If all these points are correctly addressed, the artifact project would present an organizational improvement, improving the control and traceability that we have over it.
 
+## References
+Danby, S. (2023, 28 septiembre). Guía definitiva de la Gestión de la Configuración. invgate. https://blog.invgate.com/es/gestion-de-la-configuracion
+
+Gordillo Vargas, O. (2007). Propuesta para la aplicación de la  Gestión de Configuración de Software en  el proceso productivo de la UCI [Tesis]. UNIVERSIDAD DE LAS CIENCIAS INFORMÁTICAS. https://repositorio.uci.cu/jspui/bitstream/ident/TD_0318_07/1/TD_0318_07.pdf
+
+UCAM Universidad Católica de Murcia. (2015, 26 enero). Calidad del software - Unidad 6: Gestión de la configuración del SW - José Luis Abellán [Vídeo]. YouTube. https://www.youtube.com/watch?v=wDvpj2KsDfk
+
+
