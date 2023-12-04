@@ -11,3 +11,6 @@ Está organizado en una columna de tareas con sus responsables y una fila de fec
 
 
 ![Diagrama de Gantt](https://github.com/Laimlobering/Proyectos-LIS-2023/raw/PD-3/Assets/Diagrama%20de%20Gantt.png)
+
+## Referencias:
+Martins, J. (2022, 12 septiembre). Diagrama de Gantt: qué es y cómo crear uno con ejemplos [2022] • Asana. Asana. https://asana.com/es/resources/gantt-chart-basics
