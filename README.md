@@ -12,5 +12,5 @@
 - Rodriguez Aguirre Mauricio Eduardo
 - Tzab Tzab Ary Obed
 
-De resumen se realizaron tweets: https://twitter.com/PD_3_
+De resumen se realizaron tweets: [https://twitter.com/PD_3_](https://twitter.com/PD_3_)
 
