@@ -27,7 +27,7 @@ From summary these tweets were made: [HERE!!](https://twitter.com/PD_3_)
 
 3. Present a Gantt chart of the planning and scheduling of activities carried out in a sprint of your choice (consider milestones, start and end dates for activities, as well as those responsible for each activity).
 
-[Here](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/802ba887127d6f71aaded19567c7645ee87c859d/Reflexiones/Diagrama%20de%20Gantt.md)
+[Here](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/7318d0f54a23e7e601f7d291ce27117aabeccd8c/Reflexiones/Diagrama%20de%20Gantt.md)
 
 ## Software Quality Management:
 1. Compare the quality models proposed by McCall and Boehm, identify and list their essential characteristics, and reflect on which of these two models would be more suitable to apply in your software development project. Justify your choice.
