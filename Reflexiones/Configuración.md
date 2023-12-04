@@ -5,7 +5,7 @@ The audit is performed to ensure the integrity and consistency of these elements
 
 ## 1.	Use case diagram 
 
-# Configuration
+### Configuration
 1.-Are all artifacts identified by name and relevant description? R=No
 2.-Is there corresponding documentation for each artifact? R=Yes
 
