@@ -28,7 +28,7 @@ Now then, this model details three types of quality characteristics ordered in a
 3.	Metrics (to be controlled): These are defined and used to give a scale and a method of measurement.
 Below we can see an image that represents the perspectives of this model along with their corresponding quality factors and criteria.
 
-Imagen porfas
+![McCallModel](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/PD-3/Assets/Modelo%20de%20McCall.jpg)
 
 
 ## Quality Model proposed by Boehm
@@ -53,7 +53,7 @@ The medium level features have 7 elements which are associated with the high lev
 
 Boehm further classified the features into primitive constructs, which include device independence, accuracy, completeness, consistency, device efficiency, accessibility, communicability, self-description, readability, structurability, conciseness, and improvability. For example, "Testability" is broken down into accessibility, communicability, structurability and self-description. Below is an image to represent this:
 
- Imagen porfas
+![Diagrama de Gantt](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/PD-3/Assets/Modelo%20de%20Bohem.jpg)
 
  
 ## ¿Which of these two quality models is more appropriate for our software project?
