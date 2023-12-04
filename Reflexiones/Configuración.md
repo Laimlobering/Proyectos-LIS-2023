@@ -11,41 +11,41 @@ The audit is performed to ensure the integrity and consistency of these elements
 
 ### Versioning
 
-3.-Are the artifacts version-controlled? R=Yes
-4.-Are these versions identified by a specific tag? R=No
-5.-Is the information handled in the artifacts consistent with that established in the documentation? R=Yes
-6.-Are the artifacts related to your specific requirements? R=Yes
+3. Are the artifacts version-controlled? R=Yes
+4. Are these versions identified by a specific tag? R=No
+5. Is the information handled in the artifacts consistent with that established in the documentation? R=Yes
+6. Are the artifacts related to your specific requirements? R=Yes
 
 ### Change management
 
-7.-Have modifications been incorporated into the artifacts? R=Yes
-8.-Have modifications/corrections been formally evaluated prior to approval? R=Yes
-9.-Are the modifications recorded with date and author's name? R=No
-10.-Are these changes organized in a history where the difference in versions is clearly visualized? R=No
-11.-Were the modifications applied correctly? R=Yes
-12.-Is there a formal process within the team for making changes to the diagram? R=No
+7. Have modifications been incorporated into the artifacts? R=Yes
+8. Have modifications/corrections been formally evaluated prior to approval? R=Yes
+9. Are the modifications recorded with date and author's name? R=No
+10. Are these changes organized in a history where the difference in versions is clearly visualized? R=No
+11. Were the modifications applied correctly? R=Yes
+12. Is there a formal process within the team for making changes to the diagram? R=No
 
 ## UI prototypes 
 
 ### Configuration
-1.-Are all artifacts identified by name and relevant description? R=No
-2.-Is there corresponding documentation for each artifact? R=Yes
+1. Are all artifacts identified by name and relevant description? R=No
+2. Is there corresponding documentation for each artifact? R=Yes
 
 ### Versioning
 
-3.-Are the artifacts version-controlled? R=Yes
-4.-Are these versions identified by a specific tag? R=No
-5.-Is the information handled in the artifacts consistent with that established in the documentation? R=Yes
-6.-Are the artifacts related to your specific requirements? R=Yes
+3. Are the artifacts version-controlled? R=Yes
+4. Are these versions identified by a specific tag? R=No
+5. Is the information handled in the artifacts consistent with that established in the documentation? R=Yes
+6. Are the artifacts related to your specific requirements? R=Yes
 
 ### Change management
 
-7.-Have modifications been incorporated into the artifacts? R=Yes
-8.-Have modifications/corrections been formally evaluated prior to approval? R=No
-9.-Are the modifications recorded with date and author's name? R=No
-10.-Are these changes organized in a history where the difference in versions is clearly visualized? R=Yes
-11.-Were the modifications applied correctly? R=Yes
-12.-Is there a formal process within the team for making changes to artifacts? R=No
+7. Have modifications been incorporated into the artifacts? R=Yes
+8. Have modifications/corrections been formally evaluated prior to approval? R=No
+9. Are the modifications recorded with date and author's name? R=No
+10. Are these changes organized in a history where the difference in versions is clearly visualized? R=Yes
+11. Were the modifications applied correctly? R=Yes
+12. Is there a formal process within the team for making changes to artifacts? R=No
 
 
 ## Conclusions
