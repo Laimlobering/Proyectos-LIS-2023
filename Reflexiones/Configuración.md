@@ -3,9 +3,9 @@
 The two artifacts selected for auditing are the use case diagram and the UI prototypes (wireframes)
 The audit is performed to ensure the integrity and consistency of these elements and will be based on a series of "checklist" style questions for greater accuracy of the results.
 
-## Use case diagram 
+## **Use case diagram**
 
-_### Configuration__
+### Configuration
 1. Are all artifacts identified by name and relevant description? R=No
 2. Is there corresponding documentation for each artifact? R=Yes
 
