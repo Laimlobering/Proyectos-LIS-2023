@@ -43,7 +43,7 @@ The audit is performed to ensure the integrity and consistency of these elements
 7. Have modifications been incorporated into the artifacts? R=Yes
 8. Have modifications/corrections been formally evaluated prior to approval? R=No
 9. Are the modifications recorded with date and author's name? R=No
-10. Are these changes organized in a history where the difference in versions is clearly visualized? R=Yes
+10. Are these changes organized in a history where the difference in versions is clearly visualized? R=No
 11. Were the modifications applied correctly? R=Yes
 12. Is there a formal process within the team for making changes to artifacts? R=No
 
