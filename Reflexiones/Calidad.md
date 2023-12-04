@@ -1,7 +1,7 @@
 # Quality models proposed by McCall and Boehm
 
 
-## Quality Model proposed by McCall:
+## Quality Model proposed by McCall
 
 The model proposed by Jim McCall is mainly focused on the relationship between users and developers since it focuses on several quality factors that reflect both the users perspectives and the priorities that software developers have, it has three main perspectives to identify the quality of a software, these perspectives are: product review, product transition and product operations. The quality factors that count each of these will be explained below.
 
