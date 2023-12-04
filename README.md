@@ -4,7 +4,7 @@
 ### Agosto - Diciembre 2023
 ### PD-3 Unidad 4
 
-## Integrantes del equipo
+## Team members
 - Aviles Castillo Jesús Alberto
 - Dominguez Franco Cesar Adrian
 - Martinez Montemayor Karen Patricia
@@ -12,5 +12,5 @@
 - Rodriguez Aguirre Mauricio Eduardo
 - Tzab Tzab Ary Obed
 
-De resumen se realizaron tweets: [https://twitter.com/PD_3_](https://twitter.com/PD_3_)
+From summary these tweets were made: [HERE!!](https://twitter.com/PD_3_)
 
