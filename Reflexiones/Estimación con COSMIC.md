@@ -33,79 +33,79 @@ Processes:
 **Process: User registration to the system**
 Subprocesses:
 
-1. Information input (Input)
+1. Information input (Entry)
 2. Create account (Write)
 
 **Process: User login**
 Subprocess:
 
-1. Information input (Input)
+1. Information input (Entry)
 2. Log in (Read)
 
 **Process: Edit user profile information**
 Subprocess:
 
-1. Information input (Input)
+1. Information input (Entry)
 2. Option to save changed information (Write)
 
 **Process: Remove ingredients**
 Subprocess:
 
-1. Information input (Input)
+1. Information input (Entry)
 2. Information input (Read)
-3. Ingredient (Output)
-4. Message "No results" (Output)
+3. Ingredient (Exit)
+4. Message "No results" (Exit)
 
 **Process: Save/Delete favorite recipes**
 Subprocess:
 
-1. Selection (Input)
+1. Selection (Entry)
 2. Recipe (Write)
 
 **Process: Search recipes by ingredient**
 Subprocess:
 
-1. Information input (Input)
+1. Information input (Entry)
 2. Information input (Read)
-3. Ingredient (Output)
-4. Selection (Input)
-5. *Deselect (Input)
-6. Search recipes (Input)
+3. Ingredient (Exit)
+4. Selection (Entry)
+5. *Deselect (Exit)
+6. Search recipes (Entry)
 7. Recipes (Read)
-8. Recipe results (Output)
+8. Recipe results (Exit)
 
 **Process: Recipe consultation**
 Subprocess:
 
-1. Click on the recipe (Input)
+1. Click on the recipe (Entry)
 2. Recipe information (Read)
-3. Recipe information (Output)
+3. Recipe information (Exit)
 
 **Process: Plan recipes based on routine**
 Subprocess:
 
-1. Information input (Input)
-2. Recipes in the planned schedule (Output)
-3. *Delete recipe plan (Input)
+1. Information input (Entry)
+2. Recipes in the planned schedule (Exit)
+3. *Delete recipe plan (Entry)
 4. Save changes (Write)
 
 **Process: Recipe Consultation**
 Subprocess:
 
-1. Click on the recipe (Input)
+1. Click on the recipe (Entry)
 2. Recipe information (Read)
-3. Recipe information (Output)
+3. Recipe information (Exit)
 
 **Process: Recipe Planning Based on Routine**
 Subprocess:
 
-1. Information input (Input)
-2. Recipes in the planned schedule (Output)
-3. *Delete recipe plan (Input)
+1. Information input (Entry)
+2. Recipes in the planned schedule (Exit)
+3. *Delete recipe plan (Entry)
 4. Save changes (Write)
 
-*Sum of user functionalities:*
-
+### Sum of user functionalities:
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/PD-3/Assets/Suma%20CFP.png)
 ## Effort Estimation
 
 Assigning one Cosmic Function Point (CFP) for each subprocess, we estimate a total of 27 CFPs for the sprint.
@@ -135,6 +135,8 @@ Team members:
 - Montero Uc José Francisco
 - Rodríguez Aguirre Mauricio Eduardo
 - Aviles Castillo Jesús Alberto
+### Salary table
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/PD-3/Assets/Tabla%20salarios.png)
 
 We can conclude that the cost of this sprint will be approximately $1289.25 according to the data found.
 
