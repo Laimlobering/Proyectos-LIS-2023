@@ -53,7 +53,7 @@ The medium level features have 7 elements which are associated with the high lev
 
 Boehm further classified the features into primitive constructs, which include device independence, accuracy, completeness, consistency, device efficiency, accessibility, communicability, self-description, readability, structurability, conciseness, and improvability. For example, "Testability" is broken down into accessibility, communicability, structurability and self-description. Below is an image to represent this:
 
-![Diagrama de Gantt](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/PD-3/Assets/Modelo%20de%20Bohem.jpg)
+![Modelo de Bohem](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/PD-3/Assets/Modelo%20de%20Boehm.jpg)
 
  
 ## ¿Which of these two quality models is more appropriate for our software project?
