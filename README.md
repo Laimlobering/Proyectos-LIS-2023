@@ -3,7 +3,11 @@
 ![Logo](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/logo.jpeg)
 
 Team members:
-
+- Jesús Alberto Aviles Castillo
+- Karen Patricia Martinez Montemayor
+- Ary Obed Tzab Tzab
+- José Francisco Montero Uc
+- Mauricio Eduardo Rodriguez Aguirre
 
 **Content:**
 - [Product](https://github.com/Laimlobering/Proyectos-LIS-2023/tree/Tercera_entrega/Product)
