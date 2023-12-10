@@ -1,3 +1,4 @@
 # Use case specifications
 
-![UCS](https://github.com/Laimlobering/Proyectos-LIS-2023/Tercera_entrega/raw/Assets/UseCaseSpecifications.pdf)
+![UCS](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/83e12734d4dd729c44275be41782c1b9fd3ecd33/Assets/UseCaseSpecifications.pdf)
+
