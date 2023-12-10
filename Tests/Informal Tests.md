@@ -98,3 +98,33 @@ Due to the constraints of our user interfaces, the time for this process is low 
 ## Satisfaction survey
 In addition to the tests, a satisfaction survey was conducted to gather user opinions about the user interfaces. Various questions were used, including:
 
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps1.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps2.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps3.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps4.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps5.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps6.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps7.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps8.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps9.png)
+
+
+![](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/ps10.png)
+
+Analyzing the questionnaire results, overall, users liked how the application looks, and they understood the flow. However, they emphasized that we need to be more specific in certain steps, such as in test 8.
