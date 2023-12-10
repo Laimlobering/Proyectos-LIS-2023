@@ -1,3 +1,4 @@
-## Innovation
+# Innovation
+## _The product's contribution is clear. The product's contribution is clear with respect to other existing proposals. What does this product include that others do not? In an identified need? Why might the contribution be considered original?_
 
 Our product contributes significantly to facilitating the culinary experience of college students, it not only stands out for its basic function of searching for cooking recipes, but also addresses the specific challenges and needs faced by college students such as lack of experience, time and money, combining unique features such as weekly recipe planning with your budget and searching for recipes according to the user's routine; With basic functions such as searching for recipes according to the user's ingredients, user feedback and saving recipes, to meet these identified needs by making an original, complete app different from the rest.
