@@ -1,7 +1,5 @@
 # Product Evolution
 
-## _Summary of completed product changes between the FIRST, SECOND and THIRD deliverables. Mention in synthesized form the most significant changes and that evidence is available._
-
 ### __Changes to the second installment__
 
 The main idea of the product did not change between the first and the second release, however, some features were added and/or removed:
