@@ -4,3 +4,4 @@ During the time spent creating artifacts and requirements for our project, howev
 
 During the project we met a few times via teams to reach work agreements and discuss how we would proceed with each activity. These meetings also served to clarify doubts among us.
 
+![reunion](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/Tercera_entrega/Assets/reunion.png)
