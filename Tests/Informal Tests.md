@@ -94,3 +94,7 @@ Due to the constraints of our user interfaces, the time for this process is low 
 
 ### T8 Time **to Consider**
 Due to the constraints of our user interfaces, the time for this process is low as it is not possible to enter a date and meal times.
+
+## Satisfaction survey
+In addition to the tests, a satisfaction survey was conducted to gather user opinions about the user interfaces. Various questions were used, including:
+
