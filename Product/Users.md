@@ -2,7 +2,7 @@
 
 ## _Primary, secondary and/or potential users are clearly identified. It was possible to determine a specific type of user (primary) and their main characteristics.  Basic user profile information is available. Additional user information (profiles, persons, scenarios) is available._
 
-### __Primary Users__
+### __Primary Users:__
 
 We define primary users as university students in Yucatan; Likewise, we do not rule out expanding the accessibility of this product at a national level, with university students from other states being our secondary users.
 ### __Secondary users:__
