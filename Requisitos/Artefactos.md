@@ -2,8 +2,8 @@
 
 ## Diagrama de casos de uso
 
-![Casodeuso](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/ef4dce481abdca525fcde28255fc8b975bb824468ee115f0.png)
+![Caso de uso](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/39dfc1a3088800bbb8fb80c4038f6a375a589988/Assets/DCU.jpeg)
 
 
 ## Historias de usuario
-![HistoriasUser](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/412cfafb57bff349354db98f5fe4fd3523ef5ad0d1c1aba7.png)
+![HistoriasUser](https://github.com/Laimlobering/Proyectos-LIS-2023/blob/39dfc1a3088800bbb8fb80c4038f6a375a589988/Assets/HU.jpeg)
