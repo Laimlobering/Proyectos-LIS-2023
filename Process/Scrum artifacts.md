@@ -1,4 +1,4 @@
-#Scrum Methodology
+# Scrum Methodology
 Scrum is an agile framework.  The Scrum methodology is based on agile principles and provides a structured approach to project management, allowing continuous adaptation to changing requirements and maximizing the efficiency of the development team.
 
 The Scrum methodology is based on several key concepts that define its agile framework.  Here are the fundamental concepts of Scrum:
